@@ -1,3 +1,10 @@
 site_name: Cognitive Storage and Computer Architecture Lab Doc
 theme:
   name: material
+
+# 
+nav:
+  - 实验室介绍: index.md
+  - 新手村: index.md
+      - 服务器使用: index.md
+      - Docker使用: index.md
