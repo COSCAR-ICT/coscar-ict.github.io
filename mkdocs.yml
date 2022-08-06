@@ -5,5 +5,5 @@ theme:
 nav:
   - 实验室介绍: index.md
   - 新手村: index.md
-      - 服务器配置: index.md
+  - 服务器配置: index.md
 
