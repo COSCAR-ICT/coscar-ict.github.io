@@ -1,12 +1,12 @@
 <!--
  * @Author: Shengwen Liang
  * @Date: 2022-08-06 16:55:09
- * @LastEditTime: 2022-08-06 16:55:20
+ * @LastEditTime: 2022-09-30 16:08:45
  * @LastEditors: Shengwen Liang
  * @Description: 
  * @FilePath: \coscar-ict.github.io\docs\index.md
 -->
-# 实验室介绍
+# 实验室介绍说明
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
