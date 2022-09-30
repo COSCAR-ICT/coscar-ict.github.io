@@ -6,7 +6,7 @@
  * @Description: 
  * @FilePath: \coscar-ict.github.io\docs\index.md
 -->
-# Welcome to MkDocs
+# 实验室介绍
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
